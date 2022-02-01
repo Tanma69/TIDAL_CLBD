@@ -16,17 +16,23 @@ h1 {
     color: rgba(0, 0, 0, .7);
     text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
 }
+h2 {
+    width: 100%;
+    font-size: 150%;
+    color: rgba(200, 200, 200, .7);
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
+}
 p{
     width: 100%;
     text-align: center;
-    font-size: 70%;
-    color: rgba(12, 36, 52, 0.7);
+    font-size: 100%;
+    color: rgba(133, 162, 184, 1);
     text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
     font-family:"Times New Roman"
 
 }
 body{
-    background-color: (#042037);
+    background-color: rgb(04,32,55);
 }
 .navigation {
     display: table;
