@@ -9,4 +9,5 @@ window.onload = function gridcss(){
         Symptomes[k].style.gridRow = 4+k;
         k++;
     }
+    console.log("ok");
 }
